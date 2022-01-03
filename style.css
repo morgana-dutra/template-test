@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box; /*prevents the page to alongate when adding padding, to create a scroll*/
+}
+
+body {
+    margin: 0; /*margin zero to all four sides top, right, bottom, right of the page*/
+    min-height: 100vh; /*minimun height of the entire page in viewport height*/
+    background-color: dodgerblue;
+}
